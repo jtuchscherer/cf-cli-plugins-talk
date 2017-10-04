@@ -1,3 +1,4 @@
 test/
 node_modules/
 .git
+npm-debug.log

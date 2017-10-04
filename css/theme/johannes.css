@@ -320,3 +320,6 @@ body {
 .reveal .slides h5,
 .reveal .slides h6 {
   text-transform: none; }
+
+.reveal .slides section .fragment.fade-out.visible {
+  display: none; }
