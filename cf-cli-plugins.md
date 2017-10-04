@@ -53,6 +53,12 @@ show commands
 
 ## Write your own
 
+#### Steps
+
+#### Components of a plugin
+
+#### Releasing your plugin
+ 
 Note:
 - Has to be in go
 - API for plugin development rather stable
