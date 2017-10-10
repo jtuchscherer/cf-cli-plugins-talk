@@ -126,12 +126,26 @@ show commands
 
 ## Write your own
 
-#### Steps
+- Has to be in go
+- Extensive and fairly stable API
 
-#### Components of a plugin
+## Components of a plugin
 
-#### Releasing your plugin
- 
+### main.go
+
+![Alt text](screenshots/main.png?raw=true "main.go")
+
+---
+
+### test.go
+
+![Alt text](screenshots/test.png?raw=true "test.go")
+
+## Publishing your plugin
+
+
+---
+
 Note:
 - Has to be in go
 - API for plugin development rather stable
